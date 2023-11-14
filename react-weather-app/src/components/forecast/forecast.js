@@ -1,6 +1,7 @@
 import React from "react";
-import Accordion from 'react-accessible-accordion';
+//import Accordion from 'react-accessible-accordion';
 import {
+  Accordion,
   AccordionItem,
   AccordionItemHeading,
   AccordionItemButton,
